@@ -1,13 +1,12 @@
 # 💫 About Me:
 👋 Hi, I'm Nishita Mittal, a passionate **Computer Science Engineering** student (4rd year, Graphic Era Hill University).  
-💡 I enjoy building intelligent systems, solving algorithmic challenges, and exploring real-world applications of **AI** , **Web Development** & **Software Development**.  
+💡 I enjoy building intelligent systems, solving algorithmic challenges, and exploring real-world applications of **AI** , **Web Development** & **Software Development**.<br> 
 ✨ Always curious to learn new technologies and improve my problem-solving skills.  
 🎯 Goal: To contribute to innovative software solutions and grow as a **Software Developer**.  
 
 ---
 
 # 🌐 Connect with Me:
-🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishitamittal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishita-Mittal)
@@ -48,7 +47,7 @@
 
 ---
 
-🌟 "I love solving puzzles, debugging tricky errors, and turning ideas into working projects!"
+🌟 "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nishita-Mittal&label=Profile%20Views&color=0e75b6&style=flat)
 
