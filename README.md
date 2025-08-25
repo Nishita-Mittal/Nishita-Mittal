@@ -7,17 +7,13 @@
 ---
 
 # 🌐 Connect with Me:
-<p 
-  align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishitamittal)
-<a href="mailto:nishitamittal0816@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
-</a>
-<a href="https://github.com/Nishita-Mittal">
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-</a>
+🌐 Connect with Me:
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishitamittal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishita-Mittal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishitamittal0816@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishita-Mittal)
+
 
 ---
 
