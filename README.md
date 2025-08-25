@@ -7,10 +7,16 @@
 ---
 
 # 🌐 Connect with Me:
-<p align="left">
-<a href="www.linkedin.com/in/nishitamittal" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:nishitamittal0816@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href="https://github.com/Nishita-Mittal" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+<p 
+  align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishitamittal)
+<a href="mailto:nishitamittal0816@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+</a>
+<a href="https://github.com/Nishita-Mittal">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+</a>
+
 </p>
 
 ---
